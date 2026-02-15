@@ -1,5 +1,5 @@
 # 💫 About Me:
-[personal workspace for experiments and creativity.]
+[personal workspace for experiments and creativity]
 
 
 # 💻 Tech Stack:
